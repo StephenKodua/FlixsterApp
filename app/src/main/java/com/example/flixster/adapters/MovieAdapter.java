@@ -72,6 +72,8 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
 
         }
 
+        //hello
+
         public void bind(Movie movie) {
 
             int placeholderImg;
